@@ -1,0 +1,24 @@
+#conteudo {
+    border-style: hidden;
+    background-image: url(/imagens/backgorund.png);    
+    background-repeat: no-repeat;
+    background-size: 400px 200px;
+    width: 400px;
+    height: 200px;
+    
+    }
+
+#nome {
+    font-size: 25px;
+    font-style: oblique;
+    margin-left: 10px;
+    
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    font-size: 20px;
+}
